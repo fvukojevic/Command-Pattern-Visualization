@@ -22,4 +22,4 @@ npm run lint
 ### Live App Demo
 
 You can try live app demo here: http://command-patern-visualization.surge.sh/ 
-Please don't judge my design, app was not ment for that and I am not much of a designer myself. Just want to demonstrate the functionality.
+Please don't judge my design, app was not meant for that and I am not much of a designer myself. Just want to demonstrate the functionality.
